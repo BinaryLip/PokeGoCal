@@ -1,3 +1,5 @@
+import { existsSync, mkdirSync, writeFileSync } from "fs";
+import { createEvents, EventAttributes } from "ics";
 import fetch from "node-fetch";
 import {
   Bonus,
@@ -10,8 +12,8 @@ import {
   Spawn,
   SpotlightHourEvent,
 } from "./types";
-import { createEvents, EventAttributes } from "ics";
-import { writeFileSync } from "fs";
+
+const dir = "./calendars"
 
 const msInDay = 1000 * 60 * 60 * 24;
 
@@ -29,6 +31,11 @@ const main = async () => {
   );
   const events = (await response.json()) as GoEvent[];
 
+  // create calendars directory
+  if (!existsSync(dir)) {
+    mkdirSync(dir);
+  }
+
   createAndWriteCalendar(events, ["community-day"], "communityDays");
   createAndWriteCalendar(
     events,
@@ -36,7 +43,6 @@ const main = async () => {
     "raids"
   );
   createAndWriteCalendar(events, ["pokemon-spotlight-hour"], "spotlightHours");
-  createAndWriteCalendar(events, ["community-day"], "communityDays");
   createAndWriteCalendar(
     events,
     ["pokemon-go-fest", "wild-area"],
@@ -60,7 +66,7 @@ const createAndWriteCalendar = (
     console.error(error);
     return;
   }
-  writeFileSync(`calendars/${calendarName}.ics`, value);
+  writeFileSync(`${dir}/${calendarName}.ics`, value);
 };
 
 // #region formatters
