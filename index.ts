@@ -13,7 +13,7 @@ import {
   SpotlightHourEvent,
 } from "./types";
 
-const dir = "./calendars"
+const dir = "./calendars";
 
 const msInDay = 1000 * 60 * 60 * 24;
 
@@ -36,17 +36,29 @@ const main = async () => {
     mkdirSync(dir);
   }
 
-  createAndWriteCalendar(events, ["community-day"], "communityDays");
+  createAndWriteCalendar(
+    events,
+    ["community-day"],
+    "communityDays",
+    "Community Day Events"
+  );
   createAndWriteCalendar(
     events,
     ["raid-hour", "raid-day", "raid-battles", "raid-weekend", "elite-raids"],
-    "raids"
+    "raids",
+    "Raid Events"
   );
-  createAndWriteCalendar(events, ["pokemon-spotlight-hour"], "spotlightHours");
+  createAndWriteCalendar(
+    events,
+    ["pokemon-spotlight-hour"],
+    "spotlightHours",
+    "Spotlight Hour Events"
+  );
   createAndWriteCalendar(
     events,
     ["pokemon-go-fest", "wild-area"],
-    "otherMajorEvents"
+    "otherMajorEvents",
+    "Other Major Events"
   );
 };
 
@@ -55,18 +67,22 @@ main();
 const createAndWriteCalendar = (
   events: GoEvent[],
   filters: EventType[],
-  calendarName: string
+  fileName: string,
+  calName: string
 ) => {
   const filteredEvents = events.filter((event) =>
     filters.includes(event.eventType)
   );
 
-  const { error, value } = createEvents(filteredEvents.flatMap(eventFormatter));
+  const { error, value } = createEvents(
+    filteredEvents.flatMap(eventFormatter),
+    { calName }
+  );
   if (error) {
     console.error(error);
     return;
   }
-  writeFileSync(`${dir}/${calendarName}.ics`, value);
+  writeFileSync(`${dir}/${fileName}.ics`, value);
 };
 
 // #region formatters
