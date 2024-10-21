@@ -1,0 +1,40 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-WR-CALNAME:Spotlight Hour Events
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:M7tKTYrVT3SjwX5nFLZFO
+SUMMARY:Gastly\, Duskull\, and Litwick Spotlight Hour
+DTSTAMP:20241021T191051Z
+DTSTART:20241022T180000
+DTEND:20241022T190000
+DESCRIPTION:Bonus: 2× Catch XP\nSpawns: Gastly\, Duskull\, Litwick\nPotenti
+	al Shinies: Gastly\, Duskull\, Litwick
+URL:https://leekduck.com/events/pokemonspotlighthour2024-10-22/
+CATEGORIES:pokemon-spotlight-hour
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-ALT-DESC;FMTTYPE=text/html:      <h3>2× Catch XP</h3>          <figure>  
+	    <figcaption><b>Spawns: </b></figcaption>      <div style="display: fle
+	x; justify-content: space-between; flex-wrap: wrap;">        <img src="htt
+	ps://leekduck.com/assets/img/pokemon_icons/pokemon_icon_092_00.png" alt="G
+	astly"/>&nbsp;<img src="https://leekduck.com/assets/img/pokemon_icons/poke
+	mon_icon_355_00.png" alt="Duskull"/>&nbsp;<img src="https://leekduck.com/a
+	ssets/img/pokemon_icons/pokemon_icon_607_00.png" alt="Litwick"/>      </di
+	v>    </figure>        <p>Potential Shinies: Gastly, Duskull, Litwick</p> 
+	   <p>See also: <a href="https://leekduck.com/events/pokemonspotlighthour2
+	024-10-22/">Leek Duck</a></p>
+END:VEVENT
+BEGIN:VEVENT
+UID:CKLVmzdUJqVRceT-PidSL
+SUMMARY:Unannoucned Spotlight Hour
+DTSTAMP:20241021T191051Z
+DTSTART:20241029T180000
+DTEND:20241029T190000
+URL:https://leekduck.com/events/pokemonspotlighthour2024-10-29/
+CATEGORIES:pokemon-spotlight-hour
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+END:VCALENDAR
