@@ -1,0 +1,95 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-WR-CALNAME:Spotlight Hour Events
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:b50YvKEiFULTN_4oltFGz
+SUMMARY:Unannoucned Spotlight Hour
+DTSTAMP:20241025T010338Z
+DTSTART:20241029T180000
+DTEND:20241029T190000
+URL:https://leekduck.com/events/pokemonspotlighthour2024-10-29/
+CATEGORIES:pokemon-spotlight-hour
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+UID:S4wwIVmgAVM0jr3xy-Hu4
+SUMMARY:Surskit Spotlight Hour
+DTSTAMP:20241025T010338Z
+DTSTART:20241105T180000
+DTEND:20241105T190000
+DESCRIPTION:Bonus: 2× Transfer Candy\nSpawns: Surskit\nPotential Shinies: S
+	urskit
+URL:https://leekduck.com/events/pokemonspotlighthour2024-11-05/
+CATEGORIES:pokemon-spotlight-hour
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-ALT-DESC;FMTTYPE=text/html:      <h3>2× Transfer Candy</h3>          <fig
+	ure>      <figcaption><b>Spawns: </b></figcaption>      <div style="displa
+	y: flex; justify-content: space-between; flex-wrap: wrap;">        <img sr
+	c="https://leekduck.com/assets/img/pokemon_icons/pokemon_icon_283_00.png" 
+	alt="Surskit"/>      </div>    </figure>        <p>Potential Shinies: Surs
+	kit</p>    <p>See also: <a href="https://leekduck.com/events/pokemonspotli
+	ghthour2024-11-05/">Leek Duck</a></p>
+END:VEVENT
+BEGIN:VEVENT
+UID:6gSdfLyzr0BIoK9pY7hqz
+SUMMARY:Smoliv Spotlight Hour
+DTSTAMP:20241025T010338Z
+DTSTART:20241112T180000
+DTEND:20241112T190000
+DESCRIPTION:Bonus: 2× Evolution XP\nSpawns: Smoliv\nPotential Shinies: Smol
+	iv
+URL:https://leekduck.com/events/pokemonspotlighthour2024-11-12/
+CATEGORIES:pokemon-spotlight-hour
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-ALT-DESC;FMTTYPE=text/html:      <h3>2× Evolution XP</h3>          <figur
+	e>      <figcaption><b>Spawns: </b></figcaption>      <div style="display:
+	 flex; justify-content: space-between; flex-wrap: wrap;">        <img src=
+	"https://leekduck.com/assets/img/pokemon_icons/pm928.icon.png" alt="Smoliv
+	"/>      </div>    </figure>        <p>Potential Shinies: Smoliv</p>    <p
+	>See also: <a href="https://leekduck.com/events/pokemonspotlighthour2024-1
+	1-12/">Leek Duck</a></p>
+END:VEVENT
+BEGIN:VEVENT
+UID:hNRLbeBGDe8vdapH-3EDl
+SUMMARY:Teddiursa and Combee Spotlight Hour
+DTSTAMP:20241025T010338Z
+DTSTART:20241119T180000
+DTEND:20241119T190000
+DESCRIPTION:Bonus: 2× Catch Stardust\nSpawns: Teddiursa\, Combee\nPotential
+	 Shinies: Teddiursa\, Combee
+URL:https://leekduck.com/events/pokemonspotlighthour2024-11-19/
+CATEGORIES:pokemon-spotlight-hour
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-ALT-DESC;FMTTYPE=text/html:      <h3>2× Catch Stardust</h3>          <fig
+	ure>      <figcaption><b>Spawns: </b></figcaption>      <div style="displa
+	y: flex; justify-content: space-between; flex-wrap: wrap;">        <img sr
+	c="https://leekduck.com/assets/img/pokemon_icons/pokemon_icon_216_00.png" 
+	alt="Teddiursa"/>&nbsp;<img src="https://leekduck.com/assets/img/pokemon_i
+	cons/pokemon_icon_415_00.png" alt="Combee"/>      </div>    </figure>     
+	   <p>Potential Shinies: Teddiursa, Combee</p>    <p>See also: <a href="ht
+	tps://leekduck.com/events/pokemonspotlighthour2024-11-19/">Leek Duck</a></
+	p>
+END:VEVENT
+BEGIN:VEVENT
+UID:EXAYiW6K_--LRAY1Pajee
+SUMMARY:Joltik Spotlight Hour
+DTSTAMP:20241025T010338Z
+DTSTART:20241126T180000
+DTEND:20241126T190000
+DESCRIPTION:Bonus: 2× Catch XP\nSpawns: Joltik\nPotential Shinies: Joltik
+URL:https://leekduck.com/events/pokemonspotlighthour2024-11-26/
+CATEGORIES:pokemon-spotlight-hour
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-ALT-DESC;FMTTYPE=text/html:      <h3>2× Catch XP</h3>          <figure>  
+	    <figcaption><b>Spawns: </b></figcaption>      <div style="display: fle
+	x; justify-content: space-between; flex-wrap: wrap;">        <img src="htt
+	ps://leekduck.com/assets/img/pokemon_icons/pokemon_icon_595_00.png" alt="J
+	oltik"/>      </div>    </figure>        <p>Potential Shinies: Joltik</p> 
+	   <p>See also: <a href="https://leekduck.com/events/pokemonspotlighthour2
+	024-11-26/">Leek Duck</a></p>
+END:VEVENT
+END:VCALENDAR

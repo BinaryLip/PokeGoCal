@@ -1,0 +1,36 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-WR-CALNAME:Other Major Events
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:hvaexccfwYMSYO6Ft1J3H
+SUMMARY:Pokémon GO Wild Area: Fukuoka
+DTSTAMP:20241025T010338Z
+DTSTART:20241116T080000
+DTEND:20241117T170000
+URL:https://leekduck.com/events/pokemon-go-wild-area-2024-fukuoka-japan/
+CATEGORIES:wild-area
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-ALT-DESC;FMTTYPE=text/html:<img src="https://leekduck.com/assets/img/even
+	ts/wild-area-2024-fukuoka-key-art.jpg" alt="Pokémon GO Wild Area: Fukuoka"
+	/><p>See also: <a href="https://leekduck.com/events/pokemon-go-wild-area-2
+	024-fukuoka-japan/">Leek Duck</a></p>
+END:VEVENT
+BEGIN:VEVENT
+UID:yIcQ5IPeToXUXuzIkOdXy
+SUMMARY:Pokémon GO Wild Area: Global
+DTSTAMP:20241025T010338Z
+DTSTART:20241123T100000
+DTEND:20241124T181500
+URL:https://leekduck.com/events/pokemon-go-wild-area-2024-global/
+CATEGORIES:wild-area
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-ALT-DESC;FMTTYPE=text/html:<img src="https://leekduck.com/assets/img/even
+	ts/wild-area-2024-key-art.jpg" alt="Pokémon GO Wild Area: Global"/><p>See 
+	also: <a href="https://leekduck.com/events/pokemon-go-wild-area-2024-globa
+	l/">Leek Duck</a></p>
+END:VEVENT
+END:VCALENDAR
