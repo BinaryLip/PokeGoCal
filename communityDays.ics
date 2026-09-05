@@ -1,0 +1,78 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-WR-CALNAME:Community Day Events
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:kN_mWDIYSWsno2r9PDAFw
+SUMMARY:Gible Community Day Classic
+DTSTAMP:20260905T215115Z
+DTSTART:20260912T140000
+DTEND:20260912T170000
+DESCRIPTION:Spawns: Gible\nPotential Shinies: Gible\, Gabite\, Garchomp\nBo
+	nuses:\n  Increased Spawns\n  3x Catch XP\n  3-hour Incense*\n  1-hour Lur
+	es**\n* The three-hour Incense bonus excludes Daily Adventure Incense.\n**
+	 Lure Modules will last for one hour and may attract the featured Pokémon.
+	 While most bonuses are only active during the three-hour event period\, t
+	his bonus will be active from 2:00 p.m. to 9:00 p.m. local time.
+URL:https://leekduck.com/events/september-communitydayclassic2026/
+CATEGORIES:community-day
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-ALT-DESC;FMTTYPE=text/html:          <figure>      <figcaption><b>Spawns:
+	 </b></figcaption>      <div style="display: flex; justify-content: space-
+	between; flex-wrap: wrap;">        <img src="https://cdn.leekduck.com/asse
+	ts/img/pokemon_icons/pokemon_icon_443_00.png" alt="Gible"/>      </div>   
+	 </figure>            <figure>      <figcaption><b>Potential Shinies: </b>
+	</figcaption>      <div style="display: flex; justify-content: space-betwe
+	en; flex-wrap: wrap;">        <img src="https://cdn.leekduck.com/assets/im
+	g/pokemon_icons/pokemon_icon_443_00_shiny.png" alt="Gible"/>&nbsp;<img src
+	="https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_444_00_sh
+	iny.png" alt="Gabite"/>&nbsp;<img src="https://cdn.leekduck.com/assets/img
+	/pokemon_icons/pokemon_icon_445_00_shiny.png" alt="Garchomp"/>      </div>
+	    </figure>            <p><b>Bonuses:</b></p>    <div style="display: fl
+	ex; justify-content: space-between; flex-wrap: wrap;">              <div s
+	tyle="max-width: 100px; text-align: center;">          <figure>           
+	 <img src="https://cdn.leekduck.com/assets/img/events/bonuses/wildgrass.pn
+	g" alt="Increased Spawns"/>            <figcaption>Increased Spawns</figca
+	ption>          </figure>        </div>      &nbsp;        <div style="max
+	-width: 100px; text-align: center;">          <figure>            <img src
+	="https://cdn.leekduck.com/assets/img/events/bonuses/xp.png" alt="3x Catch
+	 XP"/>            <figcaption>3x Catch XP</figcaption>          </figure> 
+	       </div>      &nbsp;        <div style="max-width: 100px; text-align:
+	 center;">          <figure>            <img src="https://cdn.leekduck.com
+	/assets/img/events/bonuses/incense.png" alt="3-hour Incense*"/>           
+	 <figcaption>3-hour Incense*</figcaption>          </figure>        </div>
+	      &nbsp;        <div style="max-width: 100px; text-align: center;">   
+	       <figure>            <img src="https://cdn.leekduck.com/assets/img/e
+	vents/bonuses/lure.png" alt="1-hour Lures**"/>            <figcaption>1-ho
+	ur Lures**</figcaption>          </figure>        </div>          </div>  
+	      <p>* The three-hour Incense bonus excludes Daily Adventure Incense.*
+	* Lure Modules will last for one hour and may attract the featured Pokémon
+	. While most bonuses are only active during the three-hour event period, t
+	his bonus will be active from 2:00 p.m. to 9:00 p.m. local time.</p>    <p
+	>See also: <a href="https://leekduck.com/events/september-communitydayclas
+	sic2026/">Leek Duck</a></p>
+END:VEVENT
+BEGIN:VEVENT
+UID:WwiuNHrK3yS-3qbVU-aln
+SUMMARY:October Community Day
+DTSTAMP:20260905T215115Z
+DTSTART:20261010T140000
+DTEND:20261010T170000
+URL:https://leekduck.com/events/october-communityday2026/
+CATEGORIES:community-day
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+UID:kVvC6oD8LZWUfVmWtOT8u
+SUMMARY:November Community Day
+DTSTAMP:20260905T215115Z
+DTSTART:20261121T140000
+DTEND:20261121T170000
+URL:https://leekduck.com/events/november-communityday2026/
+CATEGORIES:community-day
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+END:VCALENDAR

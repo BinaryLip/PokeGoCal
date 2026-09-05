@@ -1,0 +1,80 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-WR-CALNAME:Spotlight Hour Events
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:AeBfQn8M_9qBbJhfFe12b
+SUMMARY:Weedle\, Kakuna\, and Beedrill Spotlight Hour
+DTSTAMP:20260905T215115Z
+DTSTART:20260910T180000
+DTEND:20260910T190000
+DESCRIPTION:Bonus: 2× Transfer Candy\nSpawns: Weedle\, Kakuna\, Beedrill\nP
+	otential Shinies: Weedle\, Kakuna\, Beedrill
+URL:https://leekduck.com/events/pokemonspotlighthour2026-09-10/
+CATEGORIES:pokemon-spotlight-hour
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-ALT-DESC;FMTTYPE=text/html:      <h3>2× Transfer Candy</h3>          <fig
+	ure>      <figcaption><b>Spawns: </b></figcaption>      <div style="displa
+	y: flex; justify-content: space-between; flex-wrap: wrap;">        <img sr
+	c="https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_013_00.p
+	ng" alt="Weedle"/>&nbsp;<img src="https://cdn.leekduck.com/assets/img/poke
+	mon_icons/pokemon_icon_014_00.png" alt="Kakuna"/>&nbsp;<img src="https://c
+	dn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_015_00.png" alt="Bee
+	drill"/>      </div>    </figure>        <p>Potential Shinies: Weedle, Kak
+	una, Beedrill</p>    <p>See also: <a href="https://leekduck.com/events/pok
+	emonspotlighthour2026-09-10/">Leek Duck</a></p>
+END:VEVENT
+BEGIN:VEVENT
+UID:ylum6P6ajAAB0jSxJsHxG
+SUMMARY:Houndour and Houndoom Spotlight Hour
+DTSTAMP:20260905T215115Z
+DTSTART:20260913T180000
+DTEND:20260913T190000
+DESCRIPTION:Bonus: 2× Transfer Candy\nSpawns: Houndour\, Houndoom\nPotentia
+	l Shinies: Houndour\, Houndoom
+URL:https://leekduck.com/events/pokemonspotlighthour2026-09-13/
+CATEGORIES:pokemon-spotlight-hour
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-ALT-DESC;FMTTYPE=text/html:      <h3>2× Transfer Candy</h3>          <fig
+	ure>      <figcaption><b>Spawns: </b></figcaption>      <div style="displa
+	y: flex; justify-content: space-between; flex-wrap: wrap;">        <img sr
+	c="https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_228_00.p
+	ng" alt="Houndour"/>&nbsp;<img src="https://cdn.leekduck.com/assets/img/po
+	kemon_icons/pokemon_icon_229_00.png" alt="Houndoom"/>      </div>    </fig
+	ure>        <p>Potential Shinies: Houndour, Houndoom</p>    <p>See also: <
+	a href="https://leekduck.com/events/pokemonspotlighthour2026-09-13/">Leek 
+	Duck</a></p>
+END:VEVENT
+BEGIN:VEVENT
+UID:EkuwWGtcZ1t3TNhCDPwXx
+SUMMARY:Mystery Pokémon Spotlight Hour
+DTSTAMP:20260905T215115Z
+DTSTART:20260917T180000
+DTEND:20260917T190000
+URL:https://leekduck.com/events/pokemonspotlighthour2026-09-17/
+CATEGORIES:pokemon-spotlight-hour
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+UID:StELgYRASN9g3g7-PouUZ
+SUMMARY:Rattata Spotlight Hour
+DTSTAMP:20260905T215115Z
+DTSTART:20260924T180000
+DTEND:20260924T190000
+DESCRIPTION:Bonus: 2× Evolution XP\nSpawns: Rattata\nPotential Shinies: Rat
+	tata
+URL:https://leekduck.com/events/pokemonspotlighthour2026-09-24/
+CATEGORIES:pokemon-spotlight-hour
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-ALT-DESC;FMTTYPE=text/html:      <h3>2× Evolution XP</h3>          <figur
+	e>      <figcaption><b>Spawns: </b></figcaption>      <div style="display:
+	 flex; justify-content: space-between; flex-wrap: wrap;">        <img src=
+	"https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_019_00.png
+	" alt="Rattata"/>      </div>    </figure>        <p>Potential Shinies: Ra
+	ttata</p>    <p>See also: <a href="https://leekduck.com/events/pokemonspot
+	lighthour2026-09-24/">Leek Duck</a></p>
+END:VEVENT
+END:VCALENDAR
