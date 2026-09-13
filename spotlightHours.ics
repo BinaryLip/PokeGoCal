@@ -1,0 +1,58 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-WR-CALNAME:Spotlight Hour Events
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:dZ_xDV5QaLnxS4wG2_7kC
+SUMMARY:Houndour and Houndoom Spotlight Hour
+DTSTAMP:20260913T003352Z
+DTSTART:20260913T180000
+DTEND:20260913T190000
+DESCRIPTION:Bonus: 2× Transfer Candy\nSpawns: Houndour\, Houndoom\nPotentia
+	l Shinies: Houndour\, Houndoom
+URL:https://leekduck.com/events/pokemonspotlighthour2026-09-13/
+CATEGORIES:pokemon-spotlight-hour
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-ALT-DESC;FMTTYPE=text/html:      <h3>2× Transfer Candy</h3>          <fig
+	ure>      <figcaption><b>Spawns: </b></figcaption>      <div style="displa
+	y: flex; justify-content: space-between; flex-wrap: wrap;">        <img sr
+	c="https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_228_00.p
+	ng" alt="Houndour"/>&nbsp;<img src="https://cdn.leekduck.com/assets/img/po
+	kemon_icons/pokemon_icon_229_00.png" alt="Houndoom"/>      </div>    </fig
+	ure>        <p>Potential Shinies: Houndour, Houndoom</p>    <p>See also: <
+	a href="https://leekduck.com/events/pokemonspotlighthour2026-09-13/">Leek 
+	Duck</a></p>
+END:VEVENT
+BEGIN:VEVENT
+UID:OtSkGjFbSx2EJEIfRy5SM
+SUMMARY:Mystery Pokémon Spotlight Hour
+DTSTAMP:20260913T003352Z
+DTSTART:20260917T180000
+DTEND:20260917T190000
+URL:https://leekduck.com/events/pokemonspotlighthour2026-09-17/
+CATEGORIES:pokemon-spotlight-hour
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+UID:vUgGIaoXvb4kiAw8nUvFN
+SUMMARY:Rattata Spotlight Hour
+DTSTAMP:20260913T003352Z
+DTSTART:20260924T180000
+DTEND:20260924T190000
+DESCRIPTION:Bonus: 2× Evolution XP\nSpawns: Rattata\nPotential Shinies: Rat
+	tata
+URL:https://leekduck.com/events/pokemonspotlighthour2026-09-24/
+CATEGORIES:pokemon-spotlight-hour
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-ALT-DESC;FMTTYPE=text/html:      <h3>2× Evolution XP</h3>          <figur
+	e>      <figcaption><b>Spawns: </b></figcaption>      <div style="display:
+	 flex; justify-content: space-between; flex-wrap: wrap;">        <img src=
+	"https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_019_00.png
+	" alt="Rattata"/>      </div>    </figure>        <p>Potential Shinies: Ra
+	ttata</p>    <p>See also: <a href="https://leekduck.com/events/pokemonspot
+	lighthour2026-09-24/">Leek Duck</a></p>
+END:VEVENT
+END:VCALENDAR

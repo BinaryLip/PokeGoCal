@@ -1,0 +1,53 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-WR-CALNAME:Other Major Events
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:5Fs3JNIN27UjHnSLcQ4RZ
+SUMMARY:Pokémon GO Wild Area 2026: Sendai • Tohoku
+DTSTAMP:20260913T003352Z
+DTSTART:20261106T010000Z
+DTEND:20261108T090000Z
+URL:https://leekduck.com/events/pokemon-go-wild-area-2026-sendai-japan/
+CATEGORIES:wild-area
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-ALT-DESC;FMTTYPE=text/html:<img src="https://cdn.leekduck.com/assets/img/
+	events/article-images/2026/2026-11-06-pokemon-go-wild-area-2026-sendai-jap
+	an/key-art.jpg" alt="Pokémon GO Wild Area 2026: Sendai • Tohoku"/><p>See a
+	lso: <a href="https://leekduck.com/events/pokemon-go-wild-area-2026-sendai
+	-japan/">Leek Duck</a></p>
+END:VEVENT
+BEGIN:VEVENT
+UID:SskhtRwiaNtyiXJg6m4hf
+SUMMARY:Pokémon GO Wild Area 2026: Mexico City
+DTSTAMP:20260913T003352Z
+DTSTART:20261106T160000Z
+DTEND:20261109T000000Z
+URL:https://leekduck.com/events/pokemon-go-wild-area-2026-mexico-city/
+CATEGORIES:wild-area
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-ALT-DESC;FMTTYPE=text/html:<img src="https://cdn.leekduck.com/assets/img/
+	events/article-images/2026/2026-11-06-pokemon-go-wild-area-2026-mexico-cit
+	y/key-art.jpg" alt="Pokémon GO Wild Area 2026: Mexico City"/><p>See also: 
+	<a href="https://leekduck.com/events/pokemon-go-wild-area-2026-mexico-city
+	/">Leek Duck</a></p>
+END:VEVENT
+BEGIN:VEVENT
+UID:PEv2HkArIegfD171ibfr7
+SUMMARY:Pokémon GO Wild Area 2026: Global
+DTSTAMP:20260913T003352Z
+DTSTART:20261114T100000
+DTEND:20261115T180000
+URL:https://leekduck.com/events/pokemon-go-wild-area-2026-global/
+CATEGORIES:wild-area
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-ALT-DESC;FMTTYPE=text/html:<img src="https://cdn.leekduck.com/assets/img/
+	events/article-images/2026/2026-11-14-pokemon-go-wild-area-2026-global/key
+	-art.jpg" alt="Pokémon GO Wild Area 2026: Global"/><p>See also: <a href="h
+	ttps://leekduck.com/events/pokemon-go-wild-area-2026-global/">Leek Duck</a
+	></p>
+END:VEVENT
+END:VCALENDAR
