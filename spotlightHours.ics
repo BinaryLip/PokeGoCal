@@ -1,0 +1,47 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-WR-CALNAME:Spotlight Hour Events
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:DrP4Odo4qkmD7Pkp10JDO
+SUMMARY:Charmander wearing Friede's goggles Spotlight Hour
+DTSTAMP:20260916T104403Z
+DTSTART:20260917T180000
+DTEND:20260917T190000
+DESCRIPTION:Bonus: 2× Catch Stardust\nSpawns: Charmander wearing Friede's g
+	oggles\nPotential Shinies: Charmander wearing Friede's goggles
+URL:https://leekduck.com/events/pokemonspotlighthour2026-09-17/
+CATEGORIES:pokemon-spotlight-hour
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-ALT-DESC;FMTTYPE=text/html:      <h3>2× Catch Stardust</h3>          <fig
+	ure>      <figcaption><b>Spawns: </b></figcaption>      <div style="displa
+	y: flex; justify-content: space-between; flex-wrap: wrap;">        <img sr
+	c="https://cdn.leekduck.com/assets/img/pokemon_icons/pm4.fGOGGLES_2026.ico
+	n.png" alt="Charmander wearing Friede's goggles"/>      </div>    </figure
+	>        <p>Potential Shinies: Charmander wearing Friede's goggles</p>    
+	<p>See also: <a href="https://leekduck.com/events/pokemonspotlighthour2026
+	-09-17/">Leek Duck</a></p>
+END:VEVENT
+BEGIN:VEVENT
+UID:z4CyAtd1XHcelUwoRnwfQ
+SUMMARY:Rattata Spotlight Hour
+DTSTAMP:20260916T104403Z
+DTSTART:20260924T180000
+DTEND:20260924T190000
+DESCRIPTION:Bonus: 2× Evolution XP\nSpawns: Rattata\nPotential Shinies: Rat
+	tata
+URL:https://leekduck.com/events/pokemonspotlighthour2026-09-24/
+CATEGORIES:pokemon-spotlight-hour
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-ALT-DESC;FMTTYPE=text/html:      <h3>2× Evolution XP</h3>          <figur
+	e>      <figcaption><b>Spawns: </b></figcaption>      <div style="display:
+	 flex; justify-content: space-between; flex-wrap: wrap;">        <img src=
+	"https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_019_00.png
+	" alt="Rattata"/>      </div>    </figure>        <p>Potential Shinies: Ra
+	ttata</p>    <p>See also: <a href="https://leekduck.com/events/pokemonspot
+	lighthour2026-09-24/">Leek Duck</a></p>
+END:VEVENT
+END:VCALENDAR
