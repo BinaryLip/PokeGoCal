@@ -1,0 +1,90 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-WR-CALNAME:Community Day Events
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:9jOCbQGaHytUvZg2fx7yQ
+SUMMARY:Zorua Community Day
+DTSTAMP:20260926T214537Z
+DTSTART:20261010T140000
+DTEND:20261010T170000
+DESCRIPTION:Spawns: Zorua\nPotential Shinies: Zorua\, Zoroark\nBonuses:\n  
+	Increased Spawns\n  3x Catch XP\n  3-hour Incense\n  1-hour Lures*\n  2x C
+	atch Candy\n  2x Chance for Trainers level 31 and up to receive Candy XL f
+	rom catching Pokémon\n  One additional Special Trade can be made for a max
+	imum of two for the day*\n  Trades made will require 50% less Stardust*\n*
+	 While most bonuses are only active during the three hours of the event (2
+	:00 p.m. to 5:00 p.m. local time)\, these bonuses will be active from 2:00
+	 p.m. to 9:00 p.m. local time.\nThe three-hour Incense bonus excludes Dail
+	y Adventure Incense and the one-hour Lure bonus excludes Golden Lure Modul
+	es.
+URL:https://leekduck.com/events/october-communityday2026/
+CATEGORIES:community-day
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-ALT-DESC;FMTTYPE=text/html:          <figure>      <figcaption><b>Spawns:
+	 </b></figcaption>      <div style="display: flex; justify-content: space-
+	between; flex-wrap: wrap;">        <img src="https://cdn.leekduck.com/asse
+	ts/img/pokemon_icons/pm570.icon.png" alt="Zorua"/>      </div>    </figure
+	>            <figure>      <figcaption><b>Potential Shinies: </b></figcapt
+	ion>      <div style="display: flex; justify-content: space-between; flex-
+	wrap: wrap;">        <img src="https://cdn.leekduck.com/assets/img/pokemon
+	_icons/pm570.s.icon.png" alt="Zorua"/>&nbsp;<img src="https://cdn.leekduck
+	.com/assets/img/pokemon_icons/pm571.s.icon.png" alt="Zoroark"/>      </div
+	>    </figure>            <p><b>Bonuses:</b></p>    <div style="display: f
+	lex; justify-content: space-between; flex-wrap: wrap;">              <div 
+	style="max-width: 100px; text-align: center;">          <figure>          
+	  <img src="https://cdn.leekduck.com/assets/img/events/bonuses/wildgrass.p
+	ng" alt="Increased Spawns"/>            <figcaption>Increased Spawns</figc
+	aption>          </figure>        </div>      &nbsp;        <div style="ma
+	x-width: 100px; text-align: center;">          <figure>            <img sr
+	c="https://cdn.leekduck.com/assets/img/events/bonuses/xp.png" alt="3x Catc
+	h XP"/>            <figcaption>3x Catch XP</figcaption>          </figure>
+	        </div>      &nbsp;        <div style="max-width: 100px; text-align
+	: center;">          <figure>            <img src="https://cdn.leekduck.co
+	m/assets/img/events/bonuses/incense.png" alt="3-hour Incense"/>           
+	 <figcaption>3-hour Incense</figcaption>          </figure>        </div> 
+	     &nbsp;        <div style="max-width: 100px; text-align: center;">    
+	      <figure>            <img src="https://cdn.leekduck.com/assets/img/ev
+	ents/bonuses/lure.png" alt="1-hour Lures*"/>            <figcaption>1-hour
+	 Lures*</figcaption>          </figure>        </div>      &nbsp;        <
+	div style="max-width: 100px; text-align: center;">          <figure>      
+	      <img src="https://cdn.leekduck.com/assets/img/events/bonuses/candy.p
+	ng" alt="2x Catch Candy"/>            <figcaption>2x Catch Candy</figcapti
+	on>          </figure>        </div>      &nbsp;        <div style="max-wi
+	dth: 100px; text-align: center;">          <figure>            <img src="h
+	ttps://cdn.leekduck.com/assets/img/events/bonuses/candyxl.png" alt="2x Cha
+	nce for Trainers level 31 and up to receive Candy XL from catching Pokémon
+	"/>            <figcaption>2x Chance for Trainers level 31 and up to recei
+	ve Candy XL from catching Pokémon</figcaption>          </figure>        <
+	/div>      &nbsp;        <div style="max-width: 100px; text-align: center;
+	">          <figure>            <img src="https://cdn.leekduck.com/assets/
+	img/events/bonuses/trade.png" alt="One additional Special Trade can be mad
+	e for a maximum of two for the day*"/>            <figcaption>One addition
+	al Special Trade can be made for a maximum of two for the day*</figcaption
+	>          </figure>        </div>      &nbsp;        <div style="max-widt
+	h: 100px; text-align: center;">          <figure>            <img src="htt
+	ps://cdn.leekduck.com/assets/img/events/bonuses/stardust2x.png" alt="Trade
+	s made will require 50% less Stardust*"/>            <figcaption>Trades ma
+	de will require 50% less Stardust*</figcaption>          </figure>        
+	</div>          </div>        <p>* While most bonuses are only active duri
+	ng the three hours of the event (2:00 p.m. to 5:00 p.m. local time), these
+	 bonuses will be active from 2:00 p.m. to 9:00 p.m. local time.</p>&nbsp;<
+	p>The three-hour Incense bonus excludes Daily Adventure Incense and the on
+	e-hour Lure bonus excludes Golden Lure Modules.</p>    <p>See also: <a hre
+	f="https://leekduck.com/events/october-communityday2026/">Leek Duck</a></p
+	>
+END:VEVENT
+BEGIN:VEVENT
+UID:2LkzKRK7O0hnkAoZOHxZM
+SUMMARY:November Community Day
+DTSTAMP:20260926T214537Z
+DTSTART:20261121T140000
+DTEND:20261121T170000
+URL:https://leekduck.com/events/november-communityday2026/
+CATEGORIES:community-day
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+END:VCALENDAR

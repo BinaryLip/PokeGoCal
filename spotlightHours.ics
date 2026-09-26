@@ -1,0 +1,102 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-WR-CALNAME:Spotlight Hour Events
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:NQEQ1notge_DcYLoSYkgq
+SUMMARY:Seedot Spotlight Hour
+DTSTAMP:20260926T214537Z
+DTSTART:20261001T180000
+DTEND:20261001T190000
+DESCRIPTION:Bonus: 2× Catch XP\nSpawns: Seedot\nPotential Shinies: Seedot
+URL:https://leekduck.com/events/pokemonspotlighthour2026-10-01/
+CATEGORIES:pokemon-spotlight-hour
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-ALT-DESC;FMTTYPE=text/html:      <h3>2× Catch XP</h3>          <figure>  
+	    <figcaption><b>Spawns: </b></figcaption>      <div style="display: fle
+	x; justify-content: space-between; flex-wrap: wrap;">        <img src="htt
+	ps://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_273_00.png" al
+	t="Seedot"/>      </div>    </figure>        <p>Potential Shinies: Seedot<
+	/p>    <p>See also: <a href="https://leekduck.com/events/pokemonspotlighth
+	our2026-10-01/">Leek Duck</a></p>
+END:VEVENT
+BEGIN:VEVENT
+UID:9v6GPN3fHYCpM249cj2VP
+SUMMARY:Elgyem Spotlight Hour
+DTSTAMP:20260926T214537Z
+DTSTART:20261008T180000
+DTEND:20261008T190000
+DESCRIPTION:Bonus: 2× Catch Candy\nSpawns: Elgyem\nPotential Shinies: Elgye
+	m
+URL:https://leekduck.com/events/pokemonspotlighthour2026-10-08/
+CATEGORIES:pokemon-spotlight-hour
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-ALT-DESC;FMTTYPE=text/html:      <h3>2× Catch Candy</h3>          <figure
+	>      <figcaption><b>Spawns: </b></figcaption>      <div style="display: 
+	flex; justify-content: space-between; flex-wrap: wrap;">        <img src="
+	https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_605_00.png"
+	 alt="Elgyem"/>      </div>    </figure>        <p>Potential Shinies: Elgy
+	em</p>    <p>See also: <a href="https://leekduck.com/events/pokemonspotlig
+	hthour2026-10-08/">Leek Duck</a></p>
+END:VEVENT
+BEGIN:VEVENT
+UID:iY_aE0Jt7N2y6v90HOumi
+SUMMARY:Stufful Spotlight Hour
+DTSTAMP:20260926T214537Z
+DTSTART:20261015T180000
+DTEND:20261015T190000
+DESCRIPTION:Bonus: 2× Transfer Candy\nSpawns: Stufful\nPotential Shinies: S
+	tufful
+URL:https://leekduck.com/events/pokemonspotlighthour2026-10-15/
+CATEGORIES:pokemon-spotlight-hour
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-ALT-DESC;FMTTYPE=text/html:      <h3>2× Transfer Candy</h3>          <fig
+	ure>      <figcaption><b>Spawns: </b></figcaption>      <div style="displa
+	y: flex; justify-content: space-between; flex-wrap: wrap;">        <img sr
+	c="https://cdn.leekduck.com/assets/img/pokemon_icons/pm759.icon.png" alt="
+	Stufful"/>      </div>    </figure>        <p>Potential Shinies: Stufful</
+	p>    <p>See also: <a href="https://leekduck.com/events/pokemonspotlightho
+	ur2026-10-15/">Leek Duck</a></p>
+END:VEVENT
+BEGIN:VEVENT
+UID:-9qQFXFFDL_TGOClTtbat
+SUMMARY:Morelull Spotlight Hour
+DTSTAMP:20260926T214537Z
+DTSTART:20261022T180000
+DTEND:20261022T190000
+DESCRIPTION:Bonus: 2× Catch Stardust\nSpawns: Morelull\nPotential Shinies: 
+	Morelull
+URL:https://leekduck.com/events/pokemonspotlighthour2026-10-22/
+CATEGORIES:pokemon-spotlight-hour
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-ALT-DESC;FMTTYPE=text/html:      <h3>2× Catch Stardust</h3>          <fig
+	ure>      <figcaption><b>Spawns: </b></figcaption>      <div style="displa
+	y: flex; justify-content: space-between; flex-wrap: wrap;">        <img sr
+	c="https://cdn.leekduck.com/assets/img/pokemon_icons/pm755.icon.png" alt="
+	Morelull"/>      </div>    </figure>        <p>Potential Shinies: Morelull
+	</p>    <p>See also: <a href="https://leekduck.com/events/pokemonspotlight
+	hour2026-10-22/">Leek Duck</a></p>
+END:VEVENT
+BEGIN:VEVENT
+UID:byU_d97n-0z5n_px8-4E-
+SUMMARY:Gastly Spotlight Hour
+DTSTAMP:20260926T214537Z
+DTSTART:20261029T180000
+DTEND:20261029T190000
+DESCRIPTION:Bonus: 2× Evolution XP\nSpawns: Gastly\nPotential Shinies: Gast
+	ly
+URL:https://leekduck.com/events/pokemonspotlighthour2026-10-29/
+CATEGORIES:pokemon-spotlight-hour
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-ALT-DESC;FMTTYPE=text/html:      <h3>2× Evolution XP</h3>          <figur
+	e>      <figcaption><b>Spawns: </b></figcaption>      <div style="display:
+	 flex; justify-content: space-between; flex-wrap: wrap;">        <img src=
+	"https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_092_00.png
+	" alt="Gastly"/>      </div>    </figure>        <p>Potential Shinies: Gas
+	tly</p>    <p>See also: <a href="https://leekduck.com/events/pokemonspotli
+	ghthour2026-10-29/">Leek Duck</a></p>
+END:VEVENT
+END:VCALENDAR
