@@ -1,0 +1,384 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-WR-CALNAME:Raid Events
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:Vjl6H9qCVcD3PwuK2JKxV
+SUMMARY:Mega Charizard X and Mega Charizard Y in Mega Raids
+DTSTAMP:20261024T200610Z
+DTSTART:20261021T060000
+DTEND:20261027T220000
+DESCRIPTION:Bosses: Mega Charizard X\, Mega Charizard Y\nPotential Shinies:
+	 Charizard\, Mega Charizard X\, Mega Charizard Y
+URL:https://leekduck.com/events/mega-charizard-x-mega-charizard-y-in-mega-r
+	aids-october-2026/
+CATEGORIES:raid-battles
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-ALT-DESC;FMTTYPE=text/html:          <figure>      <figcaption><b>Bosses:
+	 </b></figcaption>      <div style="display: flex; justify-content: space-
+	between; flex-wrap: wrap;">        <img src="https://cdn.leekduck.com/asse
+	ts/img/pokemon_icons/pokemon_icon_006_51.png" alt="Mega Charizard X"/>&nbs
+	p;<img src="https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon
+	_006_52.png" alt="Mega Charizard Y"/>      </div>    </figure>            
+	<figure>      <figcaption><b>Potential Shinies: </b></figcaption>      <di
+	v style="display: flex; justify-content: space-between; flex-wrap: wrap;">
+	        <img src="https://cdn.leekduck.com/assets/img/pokemon_icons/pokemo
+	n_icon_006_00_shiny.png" alt="Charizard"/>&nbsp;<img src="https://cdn.leek
+	duck.com/assets/img/pokemon_icons/pokemon_icon_006_51_shiny.png" alt="Mega
+	 Charizard X"/>&nbsp;<img src="https://cdn.leekduck.com/assets/img/pokemon
+	_icons/pokemon_icon_006_52_shiny.png" alt="Mega Charizard Y"/>      </div>
+	    </figure>      <p>See also: <a href="https://leekduck.com/events/mega-
+	charizard-x-mega-charizard-y-in-mega-raids-october-2026/">Leek Duck</a></p
+	>
+END:VEVENT
+BEGIN:VEVENT
+UID:0Dhl4HfFl8_sCwqiGY4X9
+SUMMARY:Palkia in 5-star Raid Battles
+DTSTAMP:20261024T200610Z
+DTSTART:20261021T060000
+DTEND:20261027T220000
+DESCRIPTION:Bosses: Palkia\nPotential Shinies: Palkia
+URL:https://leekduck.com/events/palkia-in-5-star-raid-battles-october-2026/
+CATEGORIES:raid-battles
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-ALT-DESC;FMTTYPE=text/html:          <figure>      <figcaption><b>Bosses:
+	 </b></figcaption>      <div style="display: flex; justify-content: space-
+	between; flex-wrap: wrap;">        <img src="https://cdn.leekduck.com/asse
+	ts/img/pokemon_icons/pokemon_icon_484_00.png" alt="Palkia"/>      </div>  
+	  </figure>            <figure>      <figcaption><b>Potential Shinies: </b
+	></figcaption>      <div style="display: flex; justify-content: space-betw
+	een; flex-wrap: wrap;">        <img src="https://cdn.leekduck.com/assets/i
+	mg/pokemon_icons/pokemon_icon_484_00_shiny.png" alt="Palkia"/>      </div>
+	    </figure>      <p>See also: <a href="https://leekduck.com/events/palki
+	a-in-5-star-raid-battles-october-2026/">Leek Duck</a></p>
+END:VEVENT
+BEGIN:VEVENT
+UID:bQUILaYlGNqHC5KaKC4gV
+SUMMARY:Giratina (Origin Forme) Raid Hour
+DTSTAMP:20261024T200610Z
+DTSTART:20261028T180000
+DTEND:20261028T190000
+URL:https://leekduck.com/events/raidhour20261028/
+CATEGORIES:raid-hour
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-ALT-DESC;FMTTYPE=text/html:<img src="https://cdn.leekduck.com/assets/img/
+	events/raidhour.jpg" alt="Giratina (Origin Forme) Raid Hour"/><p>See also:
+	 <a href="https://leekduck.com/events/raidhour20261028/">Leek Duck</a></p>
+END:VEVENT
+BEGIN:VEVENT
+UID:HYY6M54_Aqc12Ur9lLn9s
+SUMMARY:Chandelure Super Mega Raid Day
+DTSTAMP:20261024T200610Z
+DTSTART:20261031T140000
+DTEND:20261031T170000
+URL:https://leekduck.com/events/chandelure-super-mega-raid-day-2026/
+CATEGORIES:raid-day
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-ALT-DESC;FMTTYPE=text/html:<img src="https://cdn.leekduck.com/assets/img/
+	events/chandelure-super-mega-raid-day-2026.jpg" alt="Chandelure Super Mega
+	 Raid Day"/><p>See also: <a href="https://leekduck.com/events/chandelure-s
+	uper-mega-raid-day-2026/">Leek Duck</a></p>
+END:VEVENT
+BEGIN:VEVENT
+UID:hc-4HE3Wih5o5-gLlYboE
+SUMMARY:Shadow Landorus (Incarnate Forme) in Shadow Raids
+DTSTAMP:20261024T200610Z
+DTSTART:20261007T060000
+DTEND:20261103T220000
+DESCRIPTION:Bosses: Landorus (Incarnate)\nPotential Shinies: Landorus (Inca
+	rnate)
+URL:https://leekduck.com/events/shadow-landorus-incarnate-forme-in-shadow-r
+	aids-october-2026/
+CATEGORIES:raid-battles
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-ALT-DESC;FMTTYPE=text/html:          <figure>      <figcaption><b>Bosses:
+	 </b></figcaption>      <div style="display: flex; justify-content: space-
+	between; flex-wrap: wrap;">        <img src="https://cdn.leekduck.com/asse
+	ts/img/pokemon_icons/pokemon_icon_645_11.png" alt="Landorus (Incarnate)"/>
+	      </div>    </figure>            <figure>      <figcaption><b>Potentia
+	l Shinies: </b></figcaption>      <div style="display: flex; justify-conte
+	nt: space-between; flex-wrap: wrap;">        <img src="https://cdn.leekduc
+	k.com/assets/img/pokemon_icons/pokemon_icon_645_11_shiny.png" alt="Landoru
+	s (Incarnate)"/>      </div>    </figure>      <p>See also: <a href="https
+	://leekduck.com/events/shadow-landorus-incarnate-forme-in-shadow-raids-oct
+	ober-2026/">Leek Duck</a></p>
+END:VEVENT
+BEGIN:VEVENT
+UID:prOMqhJnGxcwFNSp1BCdY
+SUMMARY:Giratina (Origin Forme) in 5-star Raid Battles
+DTSTAMP:20261024T200610Z
+DTSTART:20261028T060000
+DTEND:20261103T220000
+DESCRIPTION:Bosses: Giratina (Origin)\nPotential Shinies: Giratina (Origin)
+URL:https://leekduck.com/events/giratina-origin-forme-in-5-star-raid-battle
+	s-october-2026/
+CATEGORIES:raid-battles
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-ALT-DESC;FMTTYPE=text/html:          <figure>      <figcaption><b>Bosses:
+	 </b></figcaption>      <div style="display: flex; justify-content: space-
+	between; flex-wrap: wrap;">        <img src="https://cdn.leekduck.com/asse
+	ts/img/pokemon_icons/pokemon_icon_487_12.png" alt="Giratina (Origin)"/>   
+	   </div>    </figure>            <figure>      <figcaption><b>Potential S
+	hinies: </b></figcaption>      <div style="display: flex; justify-content:
+	 space-between; flex-wrap: wrap;">        <img src="https://cdn.leekduck.c
+	om/assets/img/pokemon_icons/pokemon_icon_487_12_shiny.png" alt="Giratina (
+	Origin)"/>      </div>    </figure>      <p>See also: <a href="https://lee
+	kduck.com/events/giratina-origin-forme-in-5-star-raid-battles-october-2026
+	/">Leek Duck</a></p>
+END:VEVENT
+BEGIN:VEVENT
+UID:pRelFz4n5rBUdwr6YjpZG
+SUMMARY:Giratina (Altered Forme) Raid Hour
+DTSTAMP:20261024T200610Z
+DTSTART:20261104T180000
+DTEND:20261104T190000
+URL:https://leekduck.com/events/raidhour20261104/
+CATEGORIES:raid-hour
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-ALT-DESC;FMTTYPE=text/html:<img src="https://cdn.leekduck.com/assets/img/
+	events/raidhour.jpg" alt="Giratina (Altered Forme) Raid Hour"/><p>See also
+	: <a href="https://leekduck.com/events/raidhour20261104/">Leek Duck</a></p
+	>
+END:VEVENT
+BEGIN:VEVENT
+UID:KhycLFIroeX4-j_luEIor
+SUMMARY:Mega Sableye in Mega Raids
+DTSTAMP:20261024T200610Z
+DTSTART:20261028T060000
+DTEND:20261108T220000
+DESCRIPTION:Bosses: Mega Sableye\nPotential Shinies: Sableye\, Mega Sableye
+URL:https://leekduck.com/events/mega-sableye-in-mega-raids-october-2026/
+CATEGORIES:raid-battles
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-ALT-DESC;FMTTYPE=text/html:          <figure>      <figcaption><b>Bosses:
+	 </b></figcaption>      <div style="display: flex; justify-content: space-
+	between; flex-wrap: wrap;">        <img src="https://cdn.leekduck.com/asse
+	ts/img/pokemon_icons/pokemon_icon_302_51.png" alt="Mega Sableye"/>      </
+	div>    </figure>            <figure>      <figcaption><b>Potential Shinie
+	s: </b></figcaption>      <div style="display: flex; justify-content: spac
+	e-between; flex-wrap: wrap;">        <img src="https://cdn.leekduck.com/as
+	sets/img/pokemon_icons/pokemon_icon_302_00_shiny.png" alt="Sableye"/>&nbsp
+	;<img src="https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_
+	302_51_shiny.png" alt="Mega Sableye"/>      </div>    </figure>      <p>Se
+	e also: <a href="https://leekduck.com/events/mega-sableye-in-mega-raids-oc
+	tober-2026/">Leek Duck</a></p>
+END:VEVENT
+BEGIN:VEVENT
+UID:FdOcOmhwvIXravYS1dPkV
+SUMMARY:Giratina (Altered Forme) in 5-star Raid Battles
+DTSTAMP:20261024T200610Z
+DTSTART:20261104T060000
+DTEND:20261108T220000
+DESCRIPTION:Bosses: Giratina (Altered)\nPotential Shinies: Giratina (Altere
+	d)
+URL:https://leekduck.com/events/giratina-altered-forme-in-5-star-raid-battl
+	es-november-2026/
+CATEGORIES:raid-battles
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-ALT-DESC;FMTTYPE=text/html:          <figure>      <figcaption><b>Bosses:
+	 </b></figcaption>      <div style="display: flex; justify-content: space-
+	between; flex-wrap: wrap;">        <img src="https://cdn.leekduck.com/asse
+	ts/img/pokemon_icons/pokemon_icon_487_11.png" alt="Giratina (Altered)"/>  
+	    </div>    </figure>            <figure>      <figcaption><b>Potential 
+	Shinies: </b></figcaption>      <div style="display: flex; justify-content
+	: space-between; flex-wrap: wrap;">        <img src="https://cdn.leekduck.
+	com/assets/img/pokemon_icons/pokemon_icon_487_11_shiny.png" alt="Giratina 
+	(Altered)"/>      </div>    </figure>      <p>See also: <a href="https://l
+	eekduck.com/events/giratina-altered-forme-in-5-star-raid-battles-november-
+	2026/">Leek Duck</a></p>
+END:VEVENT
+BEGIN:VEVENT
+UID:CQZKMSBrO_AIkfM0N0xxg
+SUMMARY:Shadow Tornadus (Incarnate Forme) in Shadow Raids
+DTSTAMP:20261024T200610Z
+DTSTART:20261104T060000
+DTEND:20261108T220000
+DESCRIPTION:Bosses: Tornadus (Incarnate)
+URL:https://leekduck.com/events/shadow-tornadus-incarnate-forme-in-shadow-r
+	aids-november-4-2026/
+CATEGORIES:raid-battles
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-ALT-DESC;FMTTYPE=text/html:          <figure>      <figcaption><b>Bosses:
+	 </b></figcaption>      <div style="display: flex; justify-content: space-
+	between; flex-wrap: wrap;">        <img src="https://cdn.leekduck.com/asse
+	ts/img/pokemon_icons/pokemon_icon_641_11.png" alt="Tornadus (Incarnate)"/>
+	      </div>    </figure>            <figure>      <figcaption><b>Potentia
+	l Shinies: </b></figcaption>      <div style="display: flex; justify-conte
+	nt: space-between; flex-wrap: wrap;">              </div>    </figure>    
+	  <p>See also: <a href="https://leekduck.com/events/shadow-tornadus-incarn
+	ate-forme-in-shadow-raids-november-4-2026/">Leek Duck</a></p>
+END:VEVENT
+BEGIN:VEVENT
+UID:heN8kOLbr-dNcs1asTn5n
+SUMMARY:Cresselia and Darkrai Raid Hour
+DTSTAMP:20261024T200610Z
+DTSTART:20261118T180000
+DTEND:20261118T190000
+URL:https://leekduck.com/events/raidhour20261118/
+CATEGORIES:raid-hour
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-ALT-DESC;FMTTYPE=text/html:<img src="https://cdn.leekduck.com/assets/img/
+	events/raidhour.jpg" alt="Cresselia and Darkrai Raid Hour"/><p>See also: <
+	a href="https://leekduck.com/events/raidhour20261118/">Leek Duck</a></p>
+END:VEVENT
+BEGIN:VEVENT
+UID:53upU6nLs9rtcJ_acXi9r
+SUMMARY:Cresselia and Darkrai in 5-star Raid Battles
+DTSTAMP:20261024T200610Z
+DTSTART:20261116T060000
+DTEND:20261124T220000
+DESCRIPTION:Bosses: Cresselia\, Darkrai\nPotential Shinies: Cresselia\, Dar
+	krai
+URL:https://leekduck.com/events/cresselia-darkrai-in-5-star-raid-battles-no
+	vember-2026/
+CATEGORIES:raid-battles
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-ALT-DESC;FMTTYPE=text/html:          <figure>      <figcaption><b>Bosses:
+	 </b></figcaption>      <div style="display: flex; justify-content: space-
+	between; flex-wrap: wrap;">        <img src="https://cdn.leekduck.com/asse
+	ts/img/pokemon_icons/pokemon_icon_488_00.png" alt="Cresselia"/>&nbsp;<img 
+	src="https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_491_00
+	.png" alt="Darkrai"/>      </div>    </figure>            <figure>      <f
+	igcaption><b>Potential Shinies: </b></figcaption>      <div style="display
+	: flex; justify-content: space-between; flex-wrap: wrap;">        <img src
+	="https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_488_00_sh
+	iny.png" alt="Cresselia"/>&nbsp;<img src="https://cdn.leekduck.com/assets/
+	img/pokemon_icons/pokemon_icon_491_00_shiny.png" alt="Darkrai"/>      </di
+	v>    </figure>      <p>See also: <a href="https://leekduck.com/events/cre
+	sselia-darkrai-in-5-star-raid-battles-november-2026/">Leek Duck</a></p>
+END:VEVENT
+BEGIN:VEVENT
+UID:JJ0_chrZTa738NBd9hPQP
+SUMMARY:Mega Banette in Mega Raids
+DTSTAMP:20261024T200610Z
+DTSTART:20261116T060000
+DTEND:20261124T220000
+DESCRIPTION:Bosses: Mega Banette\nPotential Shinies: Banette\, Mega Banette
+URL:https://leekduck.com/events/mega-banette-in-mega-raids-november-2026/
+CATEGORIES:raid-battles
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-ALT-DESC;FMTTYPE=text/html:          <figure>      <figcaption><b>Bosses:
+	 </b></figcaption>      <div style="display: flex; justify-content: space-
+	between; flex-wrap: wrap;">        <img src="https://cdn.leekduck.com/asse
+	ts/img/pokemon_icons/pm354.fMEGA.icon.png" alt="Mega Banette"/>      </div
+	>    </figure>            <figure>      <figcaption><b>Potential Shinies: 
+	</b></figcaption>      <div style="display: flex; justify-content: space-b
+	etween; flex-wrap: wrap;">        <img src="https://cdn.leekduck.com/asset
+	s/img/pokemon_icons/pokemon_icon_354_00_shiny.png" alt="Banette"/>&nbsp;<i
+	mg src="https://cdn.leekduck.com/assets/img/pokemon_icons/pm354.fMEGA.s.ic
+	on.png" alt="Mega Banette"/>      </div>    </figure>      <p>See also: <a
+	 href="https://leekduck.com/events/mega-banette-in-mega-raids-november-202
+	6/">Leek Duck</a></p>
+END:VEVENT
+BEGIN:VEVENT
+UID:NZnwp4-BwUJWUVWPR_3Lq
+SUMMARY:Deoxys (Normal\, Defense\, Attack\, and Speed Formes) Raid Hour
+DTSTAMP:20261024T200610Z
+DTSTART:20261125T180000
+DTEND:20261125T190000
+URL:https://leekduck.com/events/raidhour20261125/
+CATEGORIES:raid-hour
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-ALT-DESC;FMTTYPE=text/html:<img src="https://cdn.leekduck.com/assets/img/
+	events/raidhour.jpg" alt="Deoxys (Normal, Defense, Attack, and Speed Forme
+	s) Raid Hour"/><p>See also: <a href="https://leekduck.com/events/raidhour2
+	0261125/">Leek Duck</a></p>
+END:VEVENT
+BEGIN:VEVENT
+UID:ReKjkVbnoU54jjg3vXiyo
+SUMMARY:Super Mega Raid Day
+DTSTAMP:20261024T200610Z
+DTSTART:20261128T140000
+DTEND:20261128T170000
+URL:https://leekduck.com/events/super-mega-raid-day-november-2026/
+CATEGORIES:raid-day
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-ALT-DESC;FMTTYPE=text/html:<img src="https://cdn.leekduck.com/assets/img/
+	events/events-default-img.jpg" alt="Super Mega Raid Day"/><p>See also: <a 
+	href="https://leekduck.com/events/super-mega-raid-day-november-2026/">Leek
+	 Duck</a></p>
+END:VEVENT
+BEGIN:VEVENT
+UID:Gq-UbFePgKrHv1j4R66_7
+SUMMARY:Shadow Tornadus (Incarnate Forme) in Shadow Raids
+DTSTAMP:20261024T200610Z
+DTSTART:20261116T060000
+DTEND:20261201T220000
+DESCRIPTION:Bosses: Tornadus (Incarnate)
+URL:https://leekduck.com/events/shadow-tornadus-incarnate-forme-in-shadow-r
+	aids-november-16-2026/
+CATEGORIES:raid-battles
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-ALT-DESC;FMTTYPE=text/html:          <figure>      <figcaption><b>Bosses:
+	 </b></figcaption>      <div style="display: flex; justify-content: space-
+	between; flex-wrap: wrap;">        <img src="https://cdn.leekduck.com/asse
+	ts/img/pokemon_icons/pokemon_icon_641_11.png" alt="Tornadus (Incarnate)"/>
+	      </div>    </figure>            <figure>      <figcaption><b>Potentia
+	l Shinies: </b></figcaption>      <div style="display: flex; justify-conte
+	nt: space-between; flex-wrap: wrap;">              </div>    </figure>    
+	  <p>See also: <a href="https://leekduck.com/events/shadow-tornadus-incarn
+	ate-forme-in-shadow-raids-november-16-2026/">Leek Duck</a></p>
+END:VEVENT
+BEGIN:VEVENT
+UID:YSOH65HhB1kpaSnGfhdmc
+SUMMARY:Deoxys (Normal\, Defense\, Attack\, and Speed Formes) in 5-star Rai
+	d Battles
+DTSTAMP:20261024T200610Z
+DTSTART:20261125T060000
+DTEND:20261201T220000
+DESCRIPTION:Bosses: Deoxys (Normal)\, Deoxys (Defense)\, Deoxys (Attack)\, 
+	Deoxys (Speed)\nPotential Shinies: Deoxys (Normal)\, Deoxys (Defense)\, De
+	oxys (Attack)\, Deoxys (Speed)
+URL:https://leekduck.com/events/deoxys-normal-defense-attack-speed-formes-i
+	n-5-star-raid-battles-november-2026/
+CATEGORIES:raid-battles
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-ALT-DESC;FMTTYPE=text/html:          <figure>      <figcaption><b>Bosses:
+	 </b></figcaption>      <div style="display: flex; justify-content: space-
+	between; flex-wrap: wrap;">        <img src="https://cdn.leekduck.com/asse
+	ts/img/pokemon_icons/pokemon_icon_386_11.png" alt="Deoxys (Normal)"/>&nbsp
+	;<img src="https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_
+	386_13.png" alt="Deoxys (Defense)"/>&nbsp;<img src="https://cdn.leekduck.c
+	om/assets/img/pokemon_icons/pokemon_icon_386_12.png" alt="Deoxys (Attack)"
+	/>&nbsp;<img src="https://cdn.leekduck.com/assets/img/pokemon_icons/pokemo
+	n_icon_386_14.png" alt="Deoxys (Speed)"/>      </div>    </figure>        
+	    <figure>      <figcaption><b>Potential Shinies: </b></figcaption>     
+	 <div style="display: flex; justify-content: space-between; flex-wrap: wra
+	p;">        <img src="https://cdn.leekduck.com/assets/img/pokemon_icons/po
+	kemon_icon_386_11_shiny.png" alt="Deoxys (Normal)"/>&nbsp;<img src="https:
+	//cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_386_13_shiny.png"
+	 alt="Deoxys (Defense)"/>&nbsp;<img src="https://cdn.leekduck.com/assets/i
+	mg/pokemon_icons/pokemon_icon_386_12_shiny.png" alt="Deoxys (Attack)"/>&nb
+	sp;<img src="https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_ico
+	n_386_14_shiny.png" alt="Deoxys (Speed)"/>      </div>    </figure>      <
+	p>See also: <a href="https://leekduck.com/events/deoxys-normal-defense-att
+	ack-speed-formes-in-5-star-raid-battles-november-2026/">Leek Duck</a></p>
+END:VEVENT
+BEGIN:VEVENT
+UID:_bv338SXZcz9vdsfyNd9l
+SUMMARY:Mega Metagross in Mega Raids
+DTSTAMP:20261024T200610Z
+DTSTART:20261125T060000
+DTEND:20261201T220000
+DESCRIPTION:Bosses: Mega Metagross\nPotential Shinies: Metagross\, Mega Met
+	agross
+URL:https://leekduck.com/events/mega-metagross-in-mega-raids-november-2026/
+CATEGORIES:raid-battles
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-ALT-DESC;FMTTYPE=text/html:          <figure>      <figcaption><b>Bosses:
+	 </b></figcaption>      <div style="display: flex; justify-content: space-
+	between; flex-wrap: wrap;">        <img src="https://cdn.leekduck.com/asse
+	ts/img/pokemon_icons/pm376.fMEGA.icon.png" alt="Mega Metagross"/>      </d
+	iv>    </figure>            <figure>      <figcaption><b>Potential Shinies
+	: </b></figcaption>      <div style="display: flex; justify-content: space
+	-between; flex-wrap: wrap;">        <img src="https://cdn.leekduck.com/ass
+	ets/img/pokemon_icons/pokemon_icon_376_00_shiny.png" alt="Metagross"/>&nbs
+	p;<img src="https://cdn.leekduck.com/assets/img/pokemon_icons/pm376.fMEGA.
+	s.icon.png" alt="Mega Metagross"/>      </div>    </figure>      <p>See al
+	so: <a href="https://leekduck.com/events/mega-metagross-in-mega-raids-nove
+	mber-2026/">Leek Duck</a></p>
+END:VEVENT
+END:VCALENDAR
