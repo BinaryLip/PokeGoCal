@@ -1,0 +1,84 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-WR-CALNAME:Community Day Events
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:lXovTHmI3V9xCfZLt4Vkh
+SUMMARY:Pawniard Community Day
+DTSTAMP:20261031T141421Z
+DTSTART:20261121T140000
+DTEND:20261121T170000
+DESCRIPTION:Spawns: Pawniard\nPotential Shinies: Pawniard\, Bisharp\, Kinga
+	mbit\nBonuses:\n  Increased Spawns\n  1/4 Egg Hatch Distance\n  3-hour Inc
+	ense\n  1-hour Lures*\n  2x Catch Candy\n  2x Chance for Trainers level 31
+	 and up to receive Candy XL from catching Pokémon\n  One additional Specia
+	l Trade can be made for a maximum of two for the day*\n  Trades made will 
+	require 50% less Stardust*\nThe reduced Egg Hatch Distance applies to Eggs
+	 placed in an Incubator during the event.\n* While most bonuses are only a
+	ctive from 2:00 p.m. to 5:00 p.m. local time\, these bonuses will be activ
+	e from 2:00 p.m. to 9:00 p.m. local time.\nThe three-hour Incense bonus ex
+	cludes Daily Adventure Incense and the one-hour Lure bonus excludes Golden
+	 Lure Modules.
+URL:https://leekduck.com/events/november-communityday2026/
+CATEGORIES:community-day
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-ALT-DESC;FMTTYPE=text/html:          <figure>      <figcaption><b>Spawns:
+	 </b></figcaption>      <div style="display: flex; justify-content: space-
+	between; flex-wrap: wrap;">        <img src="https://cdn.leekduck.com/asse
+	ts/img/pokemon_icons/pokemon_icon_624_00.png" alt="Pawniard"/>      </div>
+	    </figure>            <figure>      <figcaption><b>Potential Shinies: <
+	/b></figcaption>      <div style="display: flex; justify-content: space-be
+	tween; flex-wrap: wrap;">        <img src="https://cdn.leekduck.com/assets
+	/img/pokemon_icons/pokemon_icon_624_00_shiny.png" alt="Pawniard"/>&nbsp;<i
+	mg src="https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_625
+	_00_shiny.png" alt="Bisharp"/>&nbsp;<img src="https://cdn.leekduck.com/ass
+	ets/img/pokemon_icons/pm983.s.icon.png" alt="Kingambit"/>      </div>    <
+	/figure>            <p><b>Bonuses:</b></p>    <div style="display: flex; j
+	ustify-content: space-between; flex-wrap: wrap;">              <div style=
+	"max-width: 100px; text-align: center;">          <figure>            <img
+	 src="https://cdn.leekduck.com/assets/img/events/bonuses/wildgrass.png" al
+	t="Increased Spawns"/>            <figcaption>Increased Spawns</figcaption
+	>          </figure>        </div>      &nbsp;        <div style="max-widt
+	h: 100px; text-align: center;">          <figure>            <img src="htt
+	ps://cdn.leekduck.com/assets/img/events/bonuses/eggdistance.png" alt="1/4 
+	Egg Hatch Distance"/>            <figcaption>1/4 Egg Hatch Distance</figca
+	ption>          </figure>        </div>      &nbsp;        <div style="max
+	-width: 100px; text-align: center;">          <figure>            <img src
+	="https://cdn.leekduck.com/assets/img/events/bonuses/incense.png" alt="3-h
+	our Incense"/>            <figcaption>3-hour Incense</figcaption>         
+	 </figure>        </div>      &nbsp;        <div style="max-width: 100px; 
+	text-align: center;">          <figure>            <img src="https://cdn.l
+	eekduck.com/assets/img/events/bonuses/lure.png" alt="1-hour Lures*"/>     
+	       <figcaption>1-hour Lures*</figcaption>          </figure>        </
+	div>      &nbsp;        <div style="max-width: 100px; text-align: center;"
+	>          <figure>            <img src="https://cdn.leekduck.com/assets/i
+	mg/events/bonuses/candy.png" alt="2x Catch Candy"/>            <figcaption
+	>2x Catch Candy</figcaption>          </figure>        </div>      &nbsp; 
+	       <div style="max-width: 100px; text-align: center;">          <figur
+	e>            <img src="https://cdn.leekduck.com/assets/img/events/bonuses
+	/candyxl.png" alt="2x Chance for Trainers level 31 and up to receive Candy
+	 XL from catching Pokémon"/>            <figcaption>2x Chance for Trainers
+	 level 31 and up to receive Candy XL from catching Pokémon</figcaption>   
+	       </figure>        </div>      &nbsp;        <div style="max-width: 1
+	00px; text-align: center;">          <figure>            <img src="https:/
+	/cdn.leekduck.com/assets/img/events/bonuses/trade.png" alt="One additional
+	 Special Trade can be made for a maximum of two for the day*"/>           
+	 <figcaption>One additional Special Trade can be made for a maximum of two
+	 for the day*</figcaption>          </figure>        </div>      &nbsp;   
+	     <div style="max-width: 100px; text-align: center;">          <figure>
+	            <img src="https://cdn.leekduck.com/assets/img/events/bonuses/s
+	tardust2x.png" alt="Trades made will require 50% less Stardust*"/>        
+	    <figcaption>Trades made will require 50% less Stardust*</figcaption>  
+	        </figure>        </div>          </div>        <p>The reduced Egg 
+	Hatch Distance applies to Eggs placed in an Incubator during the event.</p
+	>&nbsp;<p>* While most bonuses are only active from 2:00 p.m. to 5:00 p.m.
+	 local time, these bonuses will be active from 2:00 p.m. to 9:00 p.m. loca
+	l time.</p>&nbsp;<p>The three-hour Incense bonus excludes Daily Adventure 
+	Incense and the one-hour Lure bonus excludes Golden Lure Modules.</p>    <
+	p>See also: <a href="https://leekduck.com/events/november-communityday2026
+	/">Leek Duck</a></p>
+END:VEVENT
+END:VCALENDAR

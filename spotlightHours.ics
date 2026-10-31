@@ -1,0 +1,69 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-WR-CALNAME:Spotlight Hour Events
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:d7lxDkLG6zrrTWv5y9VeA
+SUMMARY:Teddiursa wearing a witch hat Spotlight Hour
+DTSTAMP:20261031T141421Z
+DTSTART:20261105T180000
+DTEND:20261105T190000
+DESCRIPTION:Bonus: 2× Evolution XP\nSpawns: Teddiursa wearing a witch hat\n
+	Potential Shinies: Teddiursa wearing a witch hat
+URL:https://leekduck.com/events/pokemonspotlighthour2026-11-05/
+CATEGORIES:pokemon-spotlight-hour
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-ALT-DESC;FMTTYPE=text/html:      <h3>2× Evolution XP</h3>          <figur
+	e>      <figcaption><b>Spawns: </b></figcaption>      <div style="display:
+	 flex; justify-content: space-between; flex-wrap: wrap;">        <img src=
+	"https://cdn.leekduck.com/assets/img/pokemon_icons/pm216.cHALLOWEEN_2025.i
+	con.png" alt="Teddiursa wearing a witch hat"/>      </div>    </figure>   
+	     <p>Potential Shinies: Teddiursa wearing a witch hat</p>    <p>See als
+	o: <a href="https://leekduck.com/events/pokemonspotlighthour2026-11-05/">L
+	eek Duck</a></p>
+END:VEVENT
+BEGIN:VEVENT
+UID:em1uU0PE8IoxEy6FRF9Qf
+SUMMARY:Grookey\, Scorbunny\, and Sobble Spotlight Hour
+DTSTAMP:20261031T141421Z
+DTSTART:20261119T180000
+DTEND:20261119T190000
+DESCRIPTION:Bonus: 2× Catch Candy\nSpawns: Grookey\, Scorbunny\, Sobble\nPo
+	tential Shinies: Grookey\, Scorbunny\, Sobble
+URL:https://leekduck.com/events/pokemonspotlighthour2026-11-19/
+CATEGORIES:pokemon-spotlight-hour
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-ALT-DESC;FMTTYPE=text/html:      <h3>2× Catch Candy</h3>          <figure
+	>      <figcaption><b>Spawns: </b></figcaption>      <div style="display: 
+	flex; justify-content: space-between; flex-wrap: wrap;">        <img src="
+	https://cdn.leekduck.com/assets/img/pokemon_icons/pm810.icon.png" alt="Gro
+	okey"/>&nbsp;<img src="https://cdn.leekduck.com/assets/img/pokemon_icons/p
+	m813.icon.png" alt="Scorbunny"/>&nbsp;<img src="https://cdn.leekduck.com/a
+	ssets/img/pokemon_icons/pm816.icon.png" alt="Sobble"/>      </div>    </fi
+	gure>        <p>Potential Shinies: Grookey, Scorbunny, Sobble</p>    <p>Se
+	e also: <a href="https://leekduck.com/events/pokemonspotlighthour2026-11-1
+	9/">Leek Duck</a></p>
+END:VEVENT
+BEGIN:VEVENT
+UID:I_THy7otac5spIbcUBxgc
+SUMMARY:Noibat Spotlight Hour
+DTSTAMP:20261031T141421Z
+DTSTART:20261126T180000
+DTEND:20261126T190000
+DESCRIPTION:Bonus: 2× Catch Candy\nSpawns: Noibat\nPotential Shinies: Noiba
+	t
+URL:https://leekduck.com/events/pokemonspotlighthour2026-11-26/
+CATEGORIES:pokemon-spotlight-hour
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-ALT-DESC;FMTTYPE=text/html:      <h3>2× Catch Candy</h3>          <figure
+	>      <figcaption><b>Spawns: </b></figcaption>      <div style="display: 
+	flex; justify-content: space-between; flex-wrap: wrap;">        <img src="
+	https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_714_00.png"
+	 alt="Noibat"/>      </div>    </figure>        <p>Potential Shinies: Noib
+	at</p>    <p>See also: <a href="https://leekduck.com/events/pokemonspotlig
+	hthour2026-11-26/">Leek Duck</a></p>
+END:VEVENT
+END:VCALENDAR
