@@ -1,0 +1,196 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-WR-CALNAME:Community Day Events
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:dic04TP91eZQ5UV4UUzEd
+SUMMARY:December Community Day 2026
+DTSTAMP:20261125T031833Z
+DTSTART:20261212T140000
+DTEND:20261213T170000
+DESCRIPTION:Spawns: Vulpix\, Alolan Vulpix\, Grookey\, Scorbunny\, Lechonk\
+	, Tinkatink\, Piplup\, Zorua\, Pawniard\, Sobble\, Nickit\, Frigibax\, Gib
+	le\, Deino\nPotential Shinies: Vulpix\, Ninetales\, Alolan Vulpix\, Alolan
+	 Ninetales\, Grookey\, Thwackey\, Rillaboom\, Scorbunny\, Raboot\, Cindera
+	ce\, Lechonk\, Oinkologne\, Oinkologne\, Tinkatink\, Tinkatuff\, Tinkaton\
+	, Piplup\, Prinplup\, Empoleon\, Zorua\, Zoroark\, Pawniard\, Bisharp\, Ki
+	ngambit\, Sobble\, Drizzile\, Inteleon\, Nickit\, Thievul\, Frigibax\, Arc
+	tibax\, Baxcalibur\, Gible\, Gabite\, Garchomp\, Deino\, Zweilous\, Hydrei
+	gon\nBonuses:\n  Increased Spawns\n  2x XP for catching Pokémon\n  2x Star
+	dust for catching Pokémon\n  1/2 Hatch Distance when Eggs are placed into 
+	Incubators during the event period\n  2x Catch Candy\n  2x Chance for Trai
+	ners level 31 and up to receive Candy XL from catching Pokémon\n  3-hour I
+	ncense**\n  1-hour Lures*\n  Up to two Special Trades can be made per day*
+	\n  Trades made will require 50% less Stardust*\n* While most bonuses are 
+	only active on December 12 and 13 from 2:00 p.m. to 5:00 p.m. local time\,
+	 these bonuses will be active from Saturday\, December 12\, at 9:00 a.m. t
+	o Sunday\, December 13\, at 9:00 p.m. local time.\n** The three-hour Incen
+	se bonus excludes Daily Adventure Incense.
+URL:https://leekduck.com/events/december-communityday2026/
+CATEGORIES:community-day
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-ALT-DESC;FMTTYPE=text/html:          <figure>      <figcaption><b>Spawns:
+	 </b></figcaption>      <div style="display: flex; justify-content: space-
+	between; flex-wrap: wrap;">        <img src="https://cdn.leekduck.com/asse
+	ts/img/pokemon_icons/pokemon_icon_037_00.png" alt="Vulpix"/>&nbsp;<img src
+	="https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_037_61.pn
+	g" alt="Alolan Vulpix"/>&nbsp;<img src="https://cdn.leekduck.com/assets/im
+	g/pokemon_icons/pm810.icon.png" alt="Grookey"/>&nbsp;<img src="https://cdn
+	.leekduck.com/assets/img/pokemon_icons/pm813.icon.png" alt="Scorbunny"/>&n
+	bsp;<img src="https://cdn.leekduck.com/assets/img/pokemon_icons/pm915.icon
+	.png" alt="Lechonk"/>&nbsp;<img src="https://cdn.leekduck.com/assets/img/p
+	okemon_icons/pm957.icon.png" alt="Tinkatink"/>&nbsp;<img src="https://cdn.
+	leekduck.com/assets/img/pokemon_icons/pokemon_icon_393_00.png" alt="Piplup
+	"/>&nbsp;<img src="https://cdn.leekduck.com/assets/img/pokemon_icons/pm570
+	.icon.png" alt="Zorua"/>&nbsp;<img src="https://cdn.leekduck.com/assets/im
+	g/pokemon_icons/pokemon_icon_624_00.png" alt="Pawniard"/>&nbsp;<img src="h
+	ttps://cdn.leekduck.com/assets/img/pokemon_icons/pm816.icon.png" alt="Sobb
+	le"/>&nbsp;<img src="https://cdn.leekduck.com/assets/img/pokemon_icons/pm8
+	27.icon.png" alt="Nickit"/>&nbsp;<img src="https://cdn.leekduck.com/assets
+	/img/pokemon_icons/pm996.icon.png" alt="Frigibax"/>&nbsp;<img src="https:/
+	/cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_443_00.png" alt="G
+	ible"/>&nbsp;<img src="https://cdn.leekduck.com/assets/img/pokemon_icons/p
+	okemon_icon_633_00.png" alt="Deino"/>      </div>    </figure>            
+	<figure>      <figcaption><b>Potential Shinies: </b></figcaption>      <di
+	v style="display: flex; justify-content: space-between; flex-wrap: wrap;">
+	        <img src="https://cdn.leekduck.com/assets/img/pokemon_icons/pokemo
+	n_icon_037_00_shiny.png" alt="Vulpix"/>&nbsp;<img src="https://cdn.leekduc
+	k.com/assets/img/pokemon_icons/pokemon_icon_038_00_shiny.png" alt="Ninetal
+	es"/>&nbsp;<img src="https://cdn.leekduck.com/assets/img/pokemon_icons/pok
+	emon_icon_037_61_shiny.png" alt="Alolan Vulpix"/>&nbsp;<img src="https://c
+	dn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_038_61_shiny.png" al
+	t="Alolan Ninetales"/>&nbsp;<img src="https://cdn.leekduck.com/assets/img/
+	pokemon_icons/pm810.s.icon.png" alt="Grookey"/>&nbsp;<img src="https://cdn
+	.leekduck.com/assets/img/pokemon_icons/pm811.s.icon.png" alt="Thwackey"/>&
+	nbsp;<img src="https://cdn.leekduck.com/assets/img/pokemon_icons/pm812.s.i
+	con.png" alt="Rillaboom"/>&nbsp;<img src="https://cdn.leekduck.com/assets/
+	img/pokemon_icons/pm813.s.icon.png" alt="Scorbunny"/>&nbsp;<img src="https
+	://cdn.leekduck.com/assets/img/pokemon_icons/pm814.s.icon.png" alt="Raboot
+	"/>&nbsp;<img src="https://cdn.leekduck.com/assets/img/pokemon_icons/pm815
+	.s.icon.png" alt="Cinderace"/>&nbsp;<img src="https://cdn.leekduck.com/ass
+	ets/img/pokemon_icons/pm915.s.icon.png" alt="Lechonk"/>&nbsp;<img src="htt
+	ps://cdn.leekduck.com/assets/img/pokemon_icons/pm916.s.icon.png" alt="Oink
+	ologne"/>&nbsp;<img src="https://cdn.leekduck.com/assets/img/pokemon_icons
+	/pm916.fFEMALE.s.icon.png" alt="Oinkologne"/>&nbsp;<img src="https://cdn.l
+	eekduck.com/assets/img/pokemon_icons/pm957.s.icon.png" alt="Tinkatink"/>&n
+	bsp;<img src="https://cdn.leekduck.com/assets/img/pokemon_icons/pm958.s.ic
+	on.png" alt="Tinkatuff"/>&nbsp;<img src="https://cdn.leekduck.com/assets/i
+	mg/pokemon_icons/pm959.s.icon.png" alt="Tinkaton"/>&nbsp;<img src="https:/
+	/cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_393_00_shiny.png" 
+	alt="Piplup"/>&nbsp;<img src="https://cdn.leekduck.com/assets/img/pokemon_
+	icons/pokemon_icon_394_00_shiny.png" alt="Prinplup"/>&nbsp;<img src="https
+	://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_395_00_shiny.png
+	" alt="Empoleon"/>&nbsp;<img src="https://cdn.leekduck.com/assets/img/poke
+	mon_icons/pm570.s.icon.png" alt="Zorua"/>&nbsp;<img src="https://cdn.leekd
+	uck.com/assets/img/pokemon_icons/pm571.s.icon.png" alt="Zoroark"/>&nbsp;<i
+	mg src="https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_624
+	_00_shiny.png" alt="Pawniard"/>&nbsp;<img src="https://cdn.leekduck.com/as
+	sets/img/pokemon_icons/pokemon_icon_625_00_shiny.png" alt="Bisharp"/>&nbsp
+	;<img src="https://cdn.leekduck.com/assets/img/pokemon_icons/pm983.s.icon.
+	png" alt="Kingambit"/>&nbsp;<img src="https://cdn.leekduck.com/assets/img/
+	pokemon_icons/pm816.s.icon.png" alt="Sobble"/>&nbsp;<img src="https://cdn.
+	leekduck.com/assets/img/pokemon_icons/pm817.s.icon.png" alt="Drizzile"/>&n
+	bsp;<img src="https://cdn.leekduck.com/assets/img/pokemon_icons/pm818.s.ic
+	on.png" alt="Inteleon"/>&nbsp;<img src="https://cdn.leekduck.com/assets/im
+	g/pokemon_icons/pm827.s.icon.png" alt="Nickit"/>&nbsp;<img src="https://cd
+	n.leekduck.com/assets/img/pokemon_icons/pm828.s.icon.png" alt="Thievul"/>&
+	nbsp;<img src="https://cdn.leekduck.com/assets/img/pokemon_icons/pm996.s.i
+	con.png" alt="Frigibax"/>&nbsp;<img src="https://cdn.leekduck.com/assets/i
+	mg/pokemon_icons/pm997.s.icon.png" alt="Arctibax"/>&nbsp;<img src="https:/
+	/cdn.leekduck.com/assets/img/pokemon_icons/pm998.s.icon.png" alt="Baxcalib
+	ur"/>&nbsp;<img src="https://cdn.leekduck.com/assets/img/pokemon_icons/pok
+	emon_icon_443_00_shiny.png" alt="Gible"/>&nbsp;<img src="https://cdn.leekd
+	uck.com/assets/img/pokemon_icons/pokemon_icon_444_00_shiny.png" alt="Gabit
+	e"/>&nbsp;<img src="https://cdn.leekduck.com/assets/img/pokemon_icons/poke
+	mon_icon_445_00_shiny.png" alt="Garchomp"/>&nbsp;<img src="https://cdn.lee
+	kduck.com/assets/img/pokemon_icons/pokemon_icon_633_00_shiny.png" alt="Dei
+	no"/>&nbsp;<img src="https://cdn.leekduck.com/assets/img/pokemon_icons/pok
+	emon_icon_634_00_shiny.png" alt="Zweilous"/>&nbsp;<img src="https://cdn.le
+	ekduck.com/assets/img/pokemon_icons/pokemon_icon_635_00_shiny.png" alt="Hy
+	dreigon"/>      </div>    </figure>            <p><b>Bonuses:</b></p>    <
+	div style="display: flex; justify-content: space-between; flex-wrap: wrap;
+	">              <div style="max-width: 100px; text-align: center;">       
+	   <figure>            <img src="https://cdn.leekduck.com/assets/img/event
+	s/bonuses/wildgrass.png" alt="Increased Spawns"/>            <figcaption>I
+	ncreased Spawns</figcaption>          </figure>        </div>      &nbsp; 
+	       <div style="max-width: 100px; text-align: center;">          <figur
+	e>            <img src="https://cdn.leekduck.com/assets/img/events/bonuses
+	/xp.png" alt="2x XP for catching Pokémon"/>            <figcaption>2x XP f
+	or catching Pokémon</figcaption>          </figure>        </div>      &nb
+	sp;        <div style="max-width: 100px; text-align: center;">          <f
+	igure>            <img src="https://cdn.leekduck.com/assets/img/events/bon
+	uses/stardust2x.png" alt="2x Stardust for catching Pokémon"/>            <
+	figcaption>2x Stardust for catching Pokémon</figcaption>          </figure
+	>        </div>      &nbsp;        <div style="max-width: 100px; text-alig
+	n: center;">          <figure>            <img src="https://cdn.leekduck.c
+	om/assets/img/events/bonuses/eggdistance.png" alt="1/2 Hatch Distance when
+	 Eggs are placed into Incubators during the event period"/>            <fi
+	gcaption>1/2 Hatch Distance when Eggs are placed into Incubators during th
+	e event period</figcaption>          </figure>        </div>      &nbsp;  
+	      <div style="max-width: 100px; text-align: center;">          <figure
+	>            <img src="https://cdn.leekduck.com/assets/img/events/bonuses/
+	candy.png" alt="2x Catch Candy"/>            <figcaption>2x Catch Candy</f
+	igcaption>          </figure>        </div>      &nbsp;        <div style=
+	"max-width: 100px; text-align: center;">          <figure>            <img
+	 src="https://cdn.leekduck.com/assets/img/events/bonuses/candyxl.png" alt=
+	"2x Chance for Trainers level 31 and up to receive Candy XL from catching 
+	Pokémon"/>            <figcaption>2x Chance for Trainers level 31 and up t
+	o receive Candy XL from catching Pokémon</figcaption>          </figure>  
+	      </div>      &nbsp;        <div style="max-width: 100px; text-align: 
+	center;">          <figure>            <img src="https://cdn.leekduck.com/
+	assets/img/events/bonuses/incense.png" alt="3-hour Incense**"/>           
+	 <figcaption>3-hour Incense**</figcaption>          </figure>        </div
+	>      &nbsp;        <div style="max-width: 100px; text-align: center;">  
+	        <figure>            <img src="https://cdn.leekduck.com/assets/img/
+	events/bonuses/lure.png" alt="1-hour Lures*"/>            <figcaption>1-ho
+	ur Lures*</figcaption>          </figure>        </div>      &nbsp;       
+	 <div style="max-width: 100px; text-align: center;">          <figure>    
+	        <img src="https://cdn.leekduck.com/assets/img/events/bonuses/trade
+	.png" alt="Up to two Special Trades can be made per day*"/>            <fi
+	gcaption>Up to two Special Trades can be made per day*</figcaption>       
+	   </figure>        </div>      &nbsp;        <div style="max-width: 100px
+	; text-align: center;">          <figure>            <img src="https://cdn
+	.leekduck.com/assets/img/events/bonuses/stardust2x.png" alt="Trades made w
+	ill require 50% less Stardust*"/>            <figcaption>Trades made will 
+	require 50% less Stardust*</figcaption>          </figure>        </div>  
+	        </div>        <p>* While most bonuses are only active on December 
+	12 and 13 from 2:00 p.m. to 5:00 p.m. local time, these bonuses will be ac
+	tive from Saturday, December 12, at 9:00 a.m. to Sunday, December 13, at 9
+	:00 p.m. local time.</p>&nbsp;<p>** The three-hour Incense bonus excludes 
+	Daily Adventure Incense.</p>    <p>See also: <a href="https://leekduck.com
+	/events/december-communityday2026/">Leek Duck</a></p>
+END:VEVENT
+BEGIN:VEVENT
+UID:5ioMeaZeBjor_DHhEN9I0
+SUMMARY:January Community Day Classic
+DTSTAMP:20261125T031833Z
+DTSTART:20270102T140000
+DTEND:20270102T170000
+URL:https://leekduck.com/events/january-communitydayclassic2027/
+CATEGORIES:community-day
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+UID:Tinpf_N9Vpn2YiCQkIqTk
+SUMMARY:January Community Day
+DTSTAMP:20261125T031833Z
+DTSTART:20270116T140000
+DTEND:20270116T170000
+URL:https://leekduck.com/events/january-communityday2027/
+CATEGORIES:community-day
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+UID:ysOZb4glcSmeBsaK-Q1Rm
+SUMMARY:February Community Day
+DTSTAMP:20261125T031833Z
+DTSTART:20270206T140000
+DTEND:20270206T170000
+URL:https://leekduck.com/events/february-communityday2027/
+CATEGORIES:community-day
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+END:VCALENDAR
